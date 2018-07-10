@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question_1">What is an activity in Android?</string>
+    <string name="question_1_option_1">Activity performs the actions on the screen</string>            //A
+    <string name="question_1_option_2">Manage the Application content</string>
+    <string name="question_1_option_3">Screen UI</string>
+    <string name="question_1_option_4">None of the above</string>
+
+
+    <string name="question_2">- What are the layouts available in android?</string>
+    <string name="question_2_option_1">Linear Layout</string>
+    <string name="question_2_option_2">Frame Layout</string>
+    <string name="question_2_option_3">Relative layout</string>
+    <string name="question_2_option_4">All of the above</string>            //D
+
+
+    <string name="question_3">How to pass the data between activities in Android?</string>         //A
+    <string name="question_3_option_1">- Intent</string>
+    <string name="question_3_option_2">- Content Provider</string>
+    <string name="question_3_option_3">- Broadcast receiver</string>
+    <string name="question_3_option_4">- None of the Above</string>
+
+
+
+    <string name="question_4">- What is Pending Intent in android?</string>                  //C
+    <string name="question_4_option_1">- It is a kind of an intent</string>
+    <string name="question_4_option_2">- It is used to pass the data between activities</string>
+    <string name="question_4_option_3">- It will fire at a future point of time</string>
+    <string name="question_4_option_4">- None of the Above</string>
+
+
+
+
+
+
+    <string name="question_5">- What is android view group?</string>           //A
+    <string name="question_5_option_1">- Collection of views and other child views</string>
+    <string name="question_5_option_2">- Base class of building blocks</string>
+    <string name="question_5_option_3">Layouts</string>
+    <string name="question_5_option_4">None of the Above</string>
+
+
+
+    <string name="question_6">What is the difference between margin and padding in android layout?</string>               //C
+    <string name="question_6_option_1">- Margin is specifying the extra space left on all four sides in layout</string>
+    <string name="question_6_option_2">Padding is used to offset the content of a view by specific px or dp</string>
+    <string name="question_6_option_3">Both A and B are correct</string>
+    <string name="question_6_option_4">- None of the above</string>
+
+
+    <string name="question_7">-How many sizes are supported by Android?</string>                                     //C
+    <string name="question_7_option_1">- Android supported all sizes</string>
+    <string name="question_7_option_2">Android does not support all sizes</string>
+    <string name="question_7_option_3">Android does not support all sizes</string>
+    <string name="question_7_option_4">- Size is undefined in android</string>
+
+
+
+    <string name="question_8">- What is Manifest.xml in android?</string>                                               //C
+    <string name="question_8_option_1">- It has information about layout in an application</string>
+    <string name="question_8_option_2">- It has the information about activities in an application</string>
+    <string name="question_8_option_3">- It has all the information about an application</string>
+    <string name="question_8_option_4">- None of the above</string>
+
+
+    <string name="question_9">What is splash screen in android?</string>                                       //D
+    <string name="question_9_option_1">- Initial activity of an application</string>
+    <string name="question_9_option_2">- Initial service of an application</string>
+    <string name="question_9_option_3">Initial method of an application</string>
+    <string name="question_9_option_4">- Initial screen of an application</string>
+
+
+
+    <string name="question_10">- What is broadcast receiver in android?</string>                                  //A
+    <string name="question_10_option_1">- It will react on broadcast announcements.</string>
+    <string name="question_10_option_2">It will do background functionalities as services.</string>
+    <string name="question_10_option_3">- It will pass the data between activities.</string>
+    <string name="question_10_option_4">- None of the Above</string>
+
+
+</resources>
